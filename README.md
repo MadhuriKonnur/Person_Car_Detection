@@ -1,6 +1,6 @@
 # Person_Car_Detection
 Using FiftyOne App
-Link to download the dataset: https://evp-ml-data.s3.us-east-2.amazonaws.com/ml- interview/openimages-personcar/trainval.tar.gz
+Link to download the dataset: https://evp-ml-data.s3.us-east-2.amazonaws.com/ml-interview/openimages-personcar/trainval.tar.gz
 
 Annotation format:COCO
 
